@@ -10,7 +10,7 @@ int main() {
     float  areadekm;
     float  pib;
     float  pturisticos;
-//===========================
+//============================
     int  estado2[60];
     char  codigo2[24];
     float populacao2;
